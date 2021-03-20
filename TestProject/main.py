@@ -15,3 +15,6 @@ favorite_foods.append('Torta de frango')
 favorite_foods.insert(3, 'Doguinho')
 
 print(favorite_foods)
+
+
+# Section 03
