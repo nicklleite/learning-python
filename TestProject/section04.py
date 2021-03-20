@@ -1,4 +1,4 @@
-# ##############################################################################
+# #############################################################################
 # Coding challenge part 4
 #
 # - Create a BMI calculator, BMI which stands for Body Mass Index can be
@@ -11,7 +11,7 @@
 #
 #   Note: Make sure to use a function which accepts the height and weight
 #   values and returns the BMI value.
-# ##############################################################################
+# #############################################################################
 
 def calc_bmi(w, h):
     return w / (h ** 2)

@@ -1,4 +1,4 @@
-# ##############################################################################
+# #############################################################################
 # Coding challenge part 2.
 #
 # - Create a list of your favorite food items, the list should have minimum
@@ -7,7 +7,7 @@
 # - Add additional item to the current list and display the list.
 # - Insert an element named tacos at the 3rd index position of the list and
 #   print out the list elements.
-# ##############################################################################
+# #############################################################################
 
 favorite_foods = [
     'Strogonoff',
